@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Basic ( $ )",
+    "description": "Get started with our basic plan.",
+    "image": "/images/basicP.png",
+    "price": 9.99,
+    "features": ["Theme integrate"]
+  },
+  {
+    "title": "Standard  ( $ )",
+    "description": "Upgrade to our standard plan for more features.",
+    "image": "/images/standard.png",
+    "price": 19.99,
+    "features": [" Theme integrate", " UI/UX improvement"]
+  },
+  {
+    "title": "Premium ( $ )",
+    "description": "Get the premium plan with all the features.",
+    "image": "/images/premiumP.png",
+    "price": 29.99,
+    "features": ["Theme integrate", "UI/UX improvement", "Theme Customization"]
+  }
+]
